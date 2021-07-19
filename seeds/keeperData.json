@@ -1,0 +1,116 @@
+[
+    {
+        "playerName": "Ezekiel Elliot",
+        "position": "RB",
+        "round": 1,
+        "year": 2020
+    },
+    {
+        "playerName": "Christian McCaffrey",
+        "position": "RB",
+        "round": 1,
+        "year": 2020
+    },
+    {
+        "playerName": "Alvin Kamara",
+        "position": "RB",
+        "round": 1,
+        "year": 2020
+    },
+    {
+        "playerName": "Saquon Barkley",
+        "position":"RB",
+        "round": 1,
+        "year": 2020
+    },
+    {
+        "playerName": "Dalvin Cook",
+        "position":"RB",
+        "round": 2,
+        "year": 2020
+    },
+    {
+        "playerName": "Patrick Mahomes",
+        "position": "QB",
+        "round": 3,
+        "year": 2020
+    },
+    {
+        "playerName": "Derrick Henry",
+        "position":"RB",
+        "round": 4,
+        "year": 2020
+    },
+    {
+        "playerName": "Cooper Kupp",
+        "position": "WR",
+        "round": 4,
+        "year": 2020
+    },
+    {
+        "playerName": "George Kittle",
+        "position":"TE",
+        "round": 4,
+        "year": 2020
+    },
+    {
+        "playerName": "Kenyan Drake",
+        "position":"RB",
+        "round": 5,
+        "year": 2020
+    },
+    {
+        "playerName": "DJ Moore",
+        "position":"WR",
+        "round": 5,
+        "year": 2020
+    },
+    {
+        "playerName": "Chris Godwin",
+        "position":"WR",
+        "round": 6,
+        "year": 2020
+    },
+    {
+        "playerName": "Hunter Henry",
+        "position":"TE",
+        "round": 7,
+        "year": 2020
+    },
+    {
+        "playerName": "Miles Sanders",
+        "position":"RB",
+        "round": 8,
+        "year": 2020
+    },
+    {
+        "playerName": "Allen Robinson",
+        "position":"WR",
+        "round": 8,
+        "year": 2020
+    },
+    {
+        "playerName": "Austin Ekeler",
+        "position":"RB",
+        "round": 8,
+        "year": 2020
+    },
+    {
+        "playerName": "Lamar Jackson",
+        "position":"QB",
+        "round": 12,
+        "year": 2020
+    },
+    {
+        "playerName": "Raheem Mostert",
+        "position":"RB",
+        "round": 14,
+        "year": 2020
+    },
+    {
+        "playerName": "Mark Andrews",
+        "position":"TE",
+        "round": 15,
+        "year": 2020
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Kevin Amegin",
+        "wins": 10,
+        "losses": 3,
+        "year": 2019,
+        "team": "The Welsh",
+        "description": ""
+    },
+    {
+        "name": "RJ Pabon",
+        "wins": 8,
+        "losses": 5,
+        "year": 2020,
+        "team": "Super Weenie Hut Jr's",
+        "description": ""
+    }
+]
